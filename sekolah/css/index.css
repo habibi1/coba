@@ -1,0 +1,163 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+.wrapper{
+	width:1024px;
+	margin:auto;
+}
+.menu{
+	width:100%;
+	height:95px;
+	background-color:#005360;
+	overflow:hidden;
+}
+
+#konten{
+width:1000px;
+margin:0px auto;
+height:650;
+}
+
+.menu ul li{
+	display:inline;
+	background:#00b3b3;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+	font-family:"century gothic";
+	font-weight:bold;
+	color:WHITE;
+	margin-left:20px;
+	border-radius:5px;
+}
+.menu ul{
+	float:right;
+	margin-top:35px;
+}
+
+.menu a{
+	text-decoration:none;
+	color:white;
+}
+
+.menu img{
+	margin-top:13px;
+	float:left;
+}
+
+.header{
+	background-color:#005360;
+	height:300px;
+	overflow:hidden;
+}
+
+.welcome{
+	width:100%;
+	height:110px;
+	background-color:#fafafa;
+	padding:10px;
+	border-bottom: 2px solid #d6d6d6;
+	
+}
+
+.welcome h2{
+	font-family:"century gothic";
+	color:#005360;
+	margin-top:20px;
+	margin-bottom:10px;
+}
+
+.here{
+	width:100%;
+	height:35px;
+	background-color:#005360;
+	padding-top:10px;
+	overflow:hidden;
+}
+
+.here p{
+	font-family:"century gothic";
+	color:white;
+	margin-left:10px;
+}
+
+.badan{
+	
+	
+}
+
+.wrapper2{
+	width:1024px;
+	margin:auto;
+	background-color:white;
+	border-top:20px solid white;
+}
+
+.konten{
+	width:650px;
+	border-right:2px solid #005360;
+	float:left;
+	
+}
+
+.bagian_konten{
+	width:630px;
+	height:250px;
+	background-color:#fafafa;
+	margin-bottom:10px;
+	border-bottom:2px solid #005360;
+}
+
+.judul{
+	padding-top:10px;
+	background-color:#005360;
+	width:100%;
+	height:30px;
+}
+.judul p{
+	font-family:"century gothic";
+	font-weight:bold;
+	color:white;
+	margin-left:10px;
+}
+
+.isi{
+	padding:10px;
+}
+
+.isi p{
+	text-align:justify;
+	margin-bottom:10px;
+}
+
+
+.isi img{
+	width:190px;
+	float:left;
+	margin-right:10px;
+}
+
+.sidebar{
+	float:right;
+}
+
+.bagian_sidebar{
+	width:350px;
+	height:100px;
+}
+
+.footer{
+	width:100%;
+	height:60px;
+	background-color:#005360;
+	float:right;
+}
+
+.footer p{
+	color:white;
+	margin-top:10px;
+	text-align:center;
+}
